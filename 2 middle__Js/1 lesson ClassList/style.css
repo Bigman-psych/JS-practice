@@ -1,0 +1,21 @@
+.btn-block {
+    background-color: #ccc;
+    padding: 20px 40px;
+}
+.btn-block{
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: yellow;
+}
+.blue {
+    background-color: blue; 
+}
+.some {
+}
+.red{
+    background-color: red;
+}
