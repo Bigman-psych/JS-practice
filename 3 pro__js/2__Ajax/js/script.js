@@ -6,7 +6,7 @@ const inputRub = document.querySelector('#rub'),
 inputRub.addEventListener('input', () => {
     const request = new XMLHttpRequest();
 
-request.open('Get', 'js/current1.json');
+request.open('Get', 'js/current.json');
 request.setRequestHeader('Content-type', 'application/json; charset=utf-8');
 request.send();
 
